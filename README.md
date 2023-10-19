@@ -16,7 +16,7 @@
   ...si no te suena, clica en el icono
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://developer.android.com/" target="_blank" >
     <img src="icons/android.png" alt="android" width="40" height="40">
   </a>
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://angular.io/" target="_blank" >
     <img src="icons/angular.png" alt="angular" width="40" height="40">
   </a>
@@ -58,7 +58,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://www.w3schools.com/cs/" target="_blank" >
     <img src="icons/csharp.png" alt="csharp" width="40" height="40">
   </a>
@@ -79,7 +79,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://www.docker.com/" target="_blank" >
     <img src="icons/docker.png" alt="docker" width="40" height="40">
   </a>
@@ -100,7 +100,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://git-scm.com/" target="_blank" >
     <img src="icons/git.png" alt="git" width="40" height="40">
   </a>
@@ -121,7 +121,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://www.photoshop.com/" target="_blank" >
     <img src="icons/photoshop.png" alt="photoshop" width="40" height="40">
   </a>
