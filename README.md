@@ -4,11 +4,11 @@
 
 ## Ingeniero de Teleco desarrollando Software.
 
-- 🔭 Estoy trabajando en [Plain Concepts](https://www.plainconcepts.com/).
-- 🌱 Actualmente estoy aprendiendo sobre **estoicismo** y **hábitos**.
-- 💬 Pregúntame sobre **desarrollo personal, productividad, finanzas...**
+- 🔭 Actualmente estoy trabajando en [Plain Concepts](https://www.plainconcepts.com/).
+- 🌱 Me dedico a explorar temas sobre **desarrollo personal, productividad, gestión y finanzas.**
+- 🏹 Entre mis aficiones, disfruto del tiro con arco.
 - 📫 Puedes contactarme a través de **alexpazdom@gmail.com**.
-- 💻 Herramientas, tecnologías y lenguajes que he tocado hasta la fecha 👇👇👇
+- 💻 Algunas de las herramientas, tecnologías y lenguajes que he tocado hasta la fecha 👇👇👇
 
 <hr>
 
