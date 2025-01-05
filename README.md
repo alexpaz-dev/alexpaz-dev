@@ -2,19 +2,19 @@
   <img src="background.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-## Ingeniero de Teleco desarrollando `Software` desde hace 10 años.
+## Ingeniero de Teleco desarrollando `Software` desde hace más de 10 años.
 
-- 🔭 Estoy trabajando como desarrollador en [Plain Concepts](https://www.plainconcepts.com/).
+- 🔭 Estoy trabajando como desarrollador en [Plain Concepts](https://www.plainconcepts.com/es/).
 - 🌱 Actualmente estoy explorando temas sobre el estoicismo, la creación de hábitos y el mundo del bushcraft.
 - 💬 Podemos charlar sobre desarrollo personal, trato con el cliente, agilismo o finanzas.
 - 🏹 Entre mis aficiones, disfruto del tiro con arco.
-- 📫 Puedes contactarme a través de **alexpazdom@gmail.com** o por **[Linkedin](https://www.linkedin.com/in/alexpazdom)**.
+- 📫 Puedes contactarme a través de **alexpazdom@gmail.com** o por **[Linkedin](https://www.linkedin.com/in/alexpaz-software-developer)**.
 - 💻 Herramientas, tecnologías y lenguajes que he tocado hasta la fecha 👇👇👇
 
 <hr>
 
 <p align="right">
-  ...si no te suena, clica en el icono para más información
+  ...clica en el icono para más información
 </p>
 
 <p align="right">
@@ -111,10 +111,10 @@
   <a href="https://grafana.com" target="_blank" >
     <img src="icons/grafana.png" alt="grafana" width="40" height="40">
   </a>
-  <a href="https://www.atlassian.com/software/jira/" target="_blank" >
+  <a href="https://www.atlassian.com/es/software/jira" target="_blank" >
     <img src="icons/jira.png" alt="jira" width="40" height="40">
   </a>
-  <a href="https://www.atlassian.com/software/confluence/" target="_blank" >
+  <a href="https://www.atlassian.com/es/software/confluence" target="_blank" >
     <img src="icons/confluence.png" alt="confluence" width="40" height="40">
   </a>
   <a href="https://www.scrum.org/" target="_blank" >
