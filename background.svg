@@ -28,7 +28,7 @@
         .container {
           --color-main: #FFFFFF;
           --color-primary: #000000;
-          --color-secondary: #FFC000;
+          --color-secondary: #FFFFFF;
           --color-tertiary: #000000;
 
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
@@ -64,7 +64,7 @@
       </style>
 
       <div class="container">
-        <h1>Hola, mi nombre es Álex <div class="hi">👋</div></h1>
+        <h1>Bienvenido, bienvenida <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
