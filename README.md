@@ -13,22 +13,6 @@
 - 📫 Puedes contactarme por email en **alexpazdom@gmail.com** o través de mi **[LinkedIn](https://www.linkedin.com/in/alexpaz-software-developer)**.
 - 💻 Herramientas, tecnologías y lenguajes que he tocado hasta la fecha 👇👇👇
 
-
-<style>
-  table{
-    margin-top:15px; width:100%; border-collapse:collapse;
-  }
-
-  .icon{
-    padding:0px; text-align:center; width:40px;
-  }
-
-  .stack{
-    font-weight: bold;
-    width: 10%;
-  }
-</style>
-
 <table border="1">
   <tbody>
     <tr>
